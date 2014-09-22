@@ -16,7 +16,6 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
-    
     wiringPiSetup();
     return 0;
 }

@@ -50,7 +50,6 @@ CP=cp
 CCADMIN=CCadmin
 passwd := $(shell cat passwd)
 
-
 # build
 build: .build-post
 
